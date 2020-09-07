@@ -1,0 +1,2 @@
+saya belajar dengan menggunakan buku karya 'Abdul Kadir' dengan judul "Langkah Mudah Pemrograman OpenCV & Python"
+yang diterbitkan pada tahun 2019
